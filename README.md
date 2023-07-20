@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="190" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562"></img>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/shorena-tsiklauri-9bb855152//shorena-tsiklauri-9bb855152/](https://www.linkedin.com/in/shorena-tsiklauri-9bb855152/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shorena-tsiklauri-9bb855152//shorena-tsiklauri-9bb855152/" height="30" width="40" /></a>
+<a href="[https://instagram.com/shorenatsiklauri](https://www.linkedin.com/in/shorena-tsiklauri-9bb855152/)"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shorena-tsiklauri-9bb855152//shorena-tsiklauri-9bb855152/" height="30" width="40" /></a>
 <a href="https://instagram.com/shorenatsiklauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shorenatsiklauri" height="30" width="40" /></a>
 </p>
 
